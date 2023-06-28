@@ -5,8 +5,15 @@ Within the context of the project "Data for Social Good" that was done in collab
 Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-You have a Linux machine.
+1. Jupyter Notebook/Jupyter Lab/Jupyter Hub
 
+The first notebook that you have to run is preprocessing.ipynb in roder to preproccess the data.
+After that you can run these modules in the proposed order:
+1. CLS
+2. Sentiment
+3. Explainability (with CUDA enabled notebook)
+4. Emergency System
+5. Dashboard
 
 Contact
 If you want to contact us, reach us at archimedesai.gr/en/contact.
