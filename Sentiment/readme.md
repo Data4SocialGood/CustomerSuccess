@@ -1,4 +1,4 @@
-Sentiment analysis
+## Sentiment analysis
 
 In this notebook is implemented a method to calculate sentiment on complaints that are given through a ".csv" file, using a Greek feeling dictionary named Fixed_Greek_Lexicon.csv.
 
